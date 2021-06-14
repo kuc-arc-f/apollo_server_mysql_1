@@ -1,0 +1,12 @@
+{
+  "development": {
+      "host": "test-server",
+      "MYSQL_HOST": "localhost",
+      "MYSQL_USER": "user123",
+      "MYSQL_PASSWORD": "password",
+      "MYSQL_DBNAME": "db123"
+  },
+  "production" : {
+      "host": "honban-server"
+  }
+}
